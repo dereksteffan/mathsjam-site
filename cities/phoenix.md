@@ -6,6 +6,8 @@ email: phoenix@math-jam.com
 organiser:
     name: Derek
     email: phoenix@math-jam.com
+changed_dates: (add this field if the Jam is running on a different day one month - give the date the Jam will happen)
+    - 2017-11-28
 location:
     group: north-america
     pub_name: "Spokes"
